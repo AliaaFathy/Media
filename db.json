@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Mr. Juana King",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Awesome Plastic Shoes",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "title": "Electronic Cotton Mouse",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Metal Ball",
+      "id": 4
+    }
+  ],
+  "photos": []
+}
